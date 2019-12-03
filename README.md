@@ -3,7 +3,7 @@ Programming Test
 
 This is a dummy application to be used as part of a software development interview.
 
-instructions
+Instructions
 --------
 
 * Treat this code as if you owned this application, do whatever you feel is necessary to make this your own.
